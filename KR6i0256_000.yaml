@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0256/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五門禪經要用法
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0619.xml
+    old_id: T15n0619
+hash: sha256:6b901cacb806d0df871fb8a2b1b18203f7c705e96caa6edec28e58d82a40cac8

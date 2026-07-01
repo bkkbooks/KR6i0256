@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6i0256/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0256/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 五門禪經要用法
+  identifiers:
+    krp: KR6i0256
+    cbeta: T15n0619
+    cbeta_old_id: T15n0619
+    authorityid: CA0003483
+    json_key: T0619
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0619.xml
+    old_id: T15n0619
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0256_000-T.yaml, hash: 'sha256:6b901cacb806d0df871fb8a2b1b18203f7c705e96caa6edec28e58d82a40cac8'}
+  - {seq: 1, filename: KR6i0256_001-T.yaml, hash: 'sha256:5c39f4f76aaca58096286718ac47a5c16af4f9ec8213133cf963965bf28d6e69'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0256_000-T.markers.yaml, hash: 'sha256:351bb2fffd97aaab1cf93ae426cacc6bd7766fd9ace87ad72fc5e295f67042b4'}
+  - {seq: 1, role: markers, filename: assets/KR6i0256_001-T.markers.yaml, hash: 'sha256:65e587abdb0ad792fab1dca202663582b29ad97bffa0133de1d96b01ab885c09'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0256_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9979
+  label: 五門禪經要用法
+  type: juan
+  level: 1
+hash: sha256:43dd1dc8d7821cc90ad673b747945d76d3f1cbd0f2bbb191e95c25d8cc4daab0
