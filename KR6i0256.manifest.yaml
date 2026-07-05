@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0256_000.yaml, hash: 'sha256:6b901cacb806d0df871fb8a2b1b18203f7c705e96caa6edec28e58d82a40cac8'}
-  - {seq: 1, filename: KR6i0256_001.yaml, hash: 'sha256:c4fe46bfb3c363fd8019e2e001579c28d4e77fecafa8953004d124dfc76a199f'}
+  - {seq: 1, filename: KR6i0256_001.yaml, hash: 'sha256:5c39f4f76aaca58096286718ac47a5c16af4f9ec8213133cf963965bf28d6e69'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0256_001.markers.yaml, hash: 'sha256:3b70134c4ce695c0a5db024ceca7544c5a79a974b71f693c59f135d325f3dcd8'}
+  - {seq: 0, role: markers, filename: assets/KR6i0256_000.markers.yaml, hash: 'sha256:554d32c3d818f5e7eca4c6bca7de9fca3f1c80725c9a98cf3cbbc426f7d77eae'}
+  - {seq: 1, role: markers, filename: assets/KR6i0256_001.markers.yaml, hash: 'sha256:c08e4ccd2b41f8ead9b1c8759f3d5ccf51c4c88fcbb7469d2ea9f021e60f0f42'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 五門禪經要用法
   type: juan
   level: 1
-hash: sha256:2f136a5593a924f4f060926c5f0c5b7e5bd83fc6503fa95e989f20ce4283f198
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:05787c8164ce9a026a0a92fc5326cc3899165fc55a61f14a2820d782b9d4ee0d
