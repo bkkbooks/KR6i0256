@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0256/v1
 canonical_location: https://kanripo.org/bkk/KR6i0256/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 五門禪經要用法
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0256_000.yaml, hash: 'sha256:6b901cacb806d0df871fb8a2b1b18203f7c705e96caa6edec28e58d82a40cac8'}
-  - {seq: 1, filename: KR6i0256_001.yaml, hash: 'sha256:5c39f4f76aaca58096286718ac47a5c16af4f9ec8213133cf963965bf28d6e69'}
+  - {seq: 1, filename: KR6i0256_001.yaml, hash: 'sha256:3d4aac5200200ae1349e787a36b549e4edf012709a31c62f6c0d84e71007e80b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0256_000.markers.yaml, hash: 'sha256:554d32c3d818f5e7eca4c6bca7de9fca3f1c80725c9a98cf3cbbc426f7d77eae'}
-  - {seq: 1, role: markers, filename: assets/KR6i0256_001.markers.yaml, hash: 'sha256:c08e4ccd2b41f8ead9b1c8759f3d5ccf51c4c88fcbb7469d2ea9f021e60f0f42'}
+  - {seq: 1, role: markers, filename: assets/KR6i0256_001.markers.yaml, hash: 'sha256:6cd0f778dd9305151d29bf334921957a530b9566a20caef858f54a950a3c67d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 五門禪經要用法
   type: juan
   level: 1
-hash: sha256:05787c8164ce9a026a0a92fc5326cc3899165fc55a61f14a2820d782b9d4ee0d
+hash: sha256:e1ace3ebeb16aece372ee2d8186cef4366448866764137557be9f201952f7ec4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
